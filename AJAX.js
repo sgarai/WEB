@@ -1,4 +1,4 @@
-
+//Test comment
 function getImageCount(woid) {
     //alert("Inside getImageCount... woid " + woid);
     var xmlHttp = null;
